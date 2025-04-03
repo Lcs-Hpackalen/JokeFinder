@@ -64,9 +64,9 @@
 			isa = PBXGroup;
 			children = (
 				F40EE11A2D9D97B4002B0EEA /* JokeFinderApp.swift */,
-				F4ACD16C2D9EB21E00F1ACDD /* ViewFolder */,
-				F4ACD16E2D9EB23200F1ACDD /* ViewModels */,
 				F4ACD16A2D9EB21B00F1ACDD /* Models */,
+				F4ACD16E2D9EB23200F1ACDD /* ViewModels */,
+				F4ACD16C2D9EB21E00F1ACDD /* ViewFolder */,
 				F40EE1172D9D97B4002B0EEA /* Preview Content */,
 				F40EE1182D9D97B4002B0EEA /* Assets.xcassets */,
 			);
